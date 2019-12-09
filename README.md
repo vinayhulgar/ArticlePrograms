@@ -10,3 +10,6 @@
   :fallen_leaf: getWordLength_List – group a given sentence by its words’ length, return it as a List<br />
   :fallen_leaf: getWordLength_Set – group a given sentence by its words’ length, return it as a Set<br />
   :fallen_leaf: getwordLength_String – group a given sentence by its words’ length and return it as a String<br />
+
+ # :snowflake: Combining Predicates:<br />
+  :mushroom: We can use lambda expressions to define our Predicate or implement the Predicate interface. If we want to combine different Predicate objects, we can use the or, and, and negate methods of the Predicate interfaces. These are default methods of the interface and will return a new Predicate.
