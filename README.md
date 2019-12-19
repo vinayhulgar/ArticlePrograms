@@ -15,4 +15,5 @@
   :pushpin: We can use lambda expressions to define our Predicate or implement the Predicate interface. If we want to combine different Predicate objects, we can use the or, and, and negate methods of the Predicate interfaces. These are default methods of the interface and will return a new Predicate.
 
 # :orange_book: Shuffle Playlist:<br />
-:pushpin: It’s October 2001 and Apple is releasing the first iPod, which will revolutionize the portable media player market. Your job is to implement the song shuffle feature. Using your favorite programming language (Java), you need to implement this feature. 
+:pushpin: It’s October 2001 and Apple is releasing the first iPod, which will revolutionize the portable media player market. Your job is to implement the song shuffle feature. Using your favorite programming language (Java), you need to implement this feature.
+
