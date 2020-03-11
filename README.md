@@ -18,4 +18,5 @@
 :pushpin: It’s October 2001 and Apple is releasing the first iPod, which will revolutionize the portable media player market. Your job is to implement the song shuffle feature. Using your favorite programming language (Java), you need to implement this feature.
 
 # :beginner: Tell Don't Ask Principle:<br />
-:pushpin: It is a principle that helps people remember that object-orientation is about bundling data with the functions that operate on that data. It reminds us that rather than asking an object for data and acting on that data, we should instead tell an object what to do. This encourages to move behavior into an object to go with the data.
+:pushpin: It is a principle that helps people remember that object-orientation is about bundling data with the functions that operate on that data. It reminds us that rather than asking an object for data and acting on that data, we should instead tell an object what to do. This encourages to move behavior into an object to go with the data. 
+https://dev.to/guifroes/solving-real-world-bad-design-by-applying-the-tell-don-t-ask-principle-607
